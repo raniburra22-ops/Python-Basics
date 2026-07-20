@@ -1,5 +1,7 @@
 # Python-Basics
 
+## My Python Learning Journey 🚀
+
 This repository contains my Python practice programs while learning Python from basics.
 
 Topics covered:
@@ -10,4 +12,7 @@ Topics covered:
 - Basic Calculator
 - Grade Calculator
 
-More programs and projects will be added regularly.
+More programs and projects will be added regularly
+
+**Rani Burra**
+B.Tech AI & Data Science Student
