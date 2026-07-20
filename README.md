@@ -1,2 +1,13 @@
 # Python-Basics
-Python programs and practice while learning Python.
+
+This repository contains my Python practice programs while learning Python from basics.
+
+Topics covered:
+- Variables
+- User Input
+- Operators
+- Conditional Statements (if-else)
+- Basic Calculator
+- Grade Calculator
+
+More programs and projects will be added regularly.
