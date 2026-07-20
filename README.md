@@ -12,7 +12,7 @@ Topics covered:
 - Basic Calculator
 - Grade Calculator
 
-More programs and projects will be added regularly
+More programs and projects will be added regularly.
 
 **Rani Burra**
-B.Tech AI & Data Science Student
+B.Tech AI & Data Science Student.
